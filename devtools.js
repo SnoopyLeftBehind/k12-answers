@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("K12", null, 'panel.html');
